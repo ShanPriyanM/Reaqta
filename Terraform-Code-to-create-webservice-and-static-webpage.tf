@@ -1,8 +1,8 @@
 #Provider Definition
 provider "aws" {
   region = "us-east-2"
-  access_key = "AKIAVY7WPYELUWCUO4O3"
-  secret_key = "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"
+  access_key = "<Input_Access_Key_Here>"
+  secret_key = "<Input_Secret_key_Here>"
 }
 
 #Creation of virtual network
